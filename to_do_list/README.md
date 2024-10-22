@@ -1,6 +1,6 @@
 # to_do_list
 
-A new Flutter project.
+A Flutter project implementing a simple To-do List application which allows the user to maintain a list of task and delete the task when completed and save the taks in the memory using shared_preferences.
 
 ## Getting Started
 
